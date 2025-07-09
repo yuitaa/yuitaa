@@ -15,7 +15,9 @@ const piggy = [
 ]
 ```
 
-<img src="pechiko.gif" alt="ぺちこぺちこ" width="22%" align="left">
+<a href="https://www.tbs.co.jp/anime/machikado/special/gifstamp.html" target="_blank">
+    <img src="pechiko.gif" alt="ぺちこぺちこ" width="22%" align="left">
+</a>
 
 ```
 🐷 I'm yuita (a.k.a. koteiou)
