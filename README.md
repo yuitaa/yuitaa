@@ -26,6 +26,9 @@ const piggy = [
 
 🎮 I play Unrailed!
 ```
+## 最新記事 (from note)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 リンク集
 - 🐦 **Twitter / X**: [@koteiou](https://twitter.com/koteiou)
