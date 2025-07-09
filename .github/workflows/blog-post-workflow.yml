@@ -13,9 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in note.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://note.com/yuita/rss"
           date_format: "yyyy-mm-dd"
-          template: "$newline- $date: [$title]($url)"
+          template: "$newline- **$date** [$title]($url)"
