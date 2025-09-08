@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,6 +16,6 @@ jobs:
       - name: Pull in note.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://note.com/yuita/rss"
+          feed_list: "https://koteiou.pages.dev/rss.xml"
           date_format: "yyyy-mm-dd"
           template: "$newline- **$date** [$title]($url)"
