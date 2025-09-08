@@ -31,12 +31,11 @@ const piggy = [
 ## 最新記事
 
 <!-- BLOG-POST-LIST:START -->
-
-- **2025-08-10** [視聴したアニメを Notion に同期する](https://note.com/yuita/n/n3243ddb1744e)
-- **2025-06-27** [[U2] 全ワゴンの画像を作った](https://note.com/yuita/n/nbf279006f8b0)
-- **2025-05-26** [UCC vol.3 に出場したよ](https://note.com/yuita/n/nfe69a823ffbf)
-- **2025-03-26** [[U2]タイムモードで使えるテクニック集](https://note.com/yuita/n/na791f9850e06)
-- **2025-03-10** [Unrailed 2、カスタムマップのシリーズ 「TerraTrain Conductors」 を制作しました](https://note.com/yuita/n/nd9b5191c3075)<!-- BLOG-POST-LIST:END -->
+- **2025-09-08** [U1配信用に画面を作った](https://koteiou.pages.dev/blog/2025/09/8b0a5ffe/)
+- **2025-09-04** [5-5-5](https://koteiou.pages.dev/blog/2025/09/e9f41384/)
+- **2025-09-03** [ブログで列車の画像を表示できるように](https://koteiou.pages.dev/blog/2025/09/1ad333bb/)
+- **2025-09-02** [マップ画像の読み込み改善](https://koteiou.pages.dev/blog/2025/09/09656063/)
+- **2025-09-01** [U.L.T.R.A. ふりかえり](https://koteiou.pages.dev/blog/2025/09/1d24a7ec/)<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 リンク集
 
