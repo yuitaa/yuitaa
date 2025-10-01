@@ -31,11 +31,11 @@ const piggy = [
 ## 最新記事
 
 <!-- BLOG-POST-LIST:START -->
+- **2025-10-01** [ブログ投稿をmarkdownで表示できるように](https://koteiou.pages.dev/blog/2025/10/207493bb/)
 - **2025-09-14** [U1全実績完走!!](https://koteiou.pages.dev/blog/2025/09/52bf4d54/)
 - **2025-09-08** [U1配信用に画面を作った](https://koteiou.pages.dev/blog/2025/09/8b0a5ffe/)
 - **2025-09-04** [5-5-5](https://koteiou.pages.dev/blog/2025/09/e9f41384/)
-- **2025-09-03** [ブログで列車の画像を表示できるように](https://koteiou.pages.dev/blog/2025/09/1ad333bb/)
-- **2025-09-02** [マップ画像の読み込み改善](https://koteiou.pages.dev/blog/2025/09/09656063/)<!-- BLOG-POST-LIST:END -->
+- **2025-09-03** [ブログで列車の画像を表示できるように](https://koteiou.pages.dev/blog/2025/09/1ad333bb/)<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 リンク集
 
